@@ -1,3 +1,5 @@
 another-file.txt was added in feature/ folder. GRT
 
 This file was modfied locally.
+
+Another line was added here.
