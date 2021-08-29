@@ -1,1 +1,3 @@
 another-file.txt was added in feature/ folder. GRT
+
+This file was modfied locally.
